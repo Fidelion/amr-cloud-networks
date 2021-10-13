@@ -28,4 +28,7 @@ All of the endpoints of data models are listed within mongo model files.
 Another issue this software solves is scalability of workers execution, simply enable pm2 module and run all 
 the tasks in parallel.
 
+This project also has a profile jwt implementation integrating github app too so it allows you to build 
+SaaS solution for your client or your own startup.
+
 If you need Docker - Kubernetes - Skaffold Microservice app reach out for help.
