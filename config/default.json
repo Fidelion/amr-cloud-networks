@@ -1,0 +1,14 @@
+{
+    "mongoURI": "your_mongo_uri",
+    "jwtSecret": "your_jwt_secret",
+    "ARUBA_LOGIN_AUTH": "your_aruba_login_auth",
+    "ARUBA_AUTHENTICATE": "your_aruba_authenticate",
+    "ARUBA_EXCHANGE": "your_aruba_exchange_key",
+    "ARUBA_API": "https://apigw-prod2.central.arubanetworks.com/monitoring/v1/aps",
+    "csrf_token": "",
+    "session_id": "",
+    "tokenAruba": "",
+    "MerakiAPIKey": "your_meraki_api_key",
+    "github_client": "your_github_client",
+    "github_secret": "your_github_secret"
+}
